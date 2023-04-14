@@ -21,5 +21,5 @@ class LetterGrid {
 		char **getMat();
 };
 
-#include "LetterGrid.cpp"
+//#include "LetterGrid.cpp"
 #endif

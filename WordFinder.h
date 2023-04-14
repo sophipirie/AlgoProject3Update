@@ -6,7 +6,7 @@
 #include <vector>
 #include <fstream>
 #include <iomanip>
-//using namespace std;
+using namespace std;
 
 class WordFinder {
 	private:

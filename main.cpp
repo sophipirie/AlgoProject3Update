@@ -1,13 +1,13 @@
 #include "WordFinder.h"
 #include "LetterGrid.h"
 
-#include <iostream>
-#include <vector>
-#include <string>
+//#include <iostream>
+//#include <vector>
+//#include <string>
 #include <algorithm>
 
 
-using namespace std;
+//using namespace std;
 
 void scanWord(string s, int r, int c, WordFinder &w) {
 	string orig = s;
